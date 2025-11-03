@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShuaibAlhajj
-- 👀 I’m interested in Information Technology,Software Engineerind and Trading In Forex Market
+- 👀 I’m interested in Information Technology,Software Engineering and Trading In Forex Market
 - 🌱 I’m currently learning Web Devlopent 
 - 💞️ I’m looking to collaborate on Web Develobment teams
 - 📫 How to reach me shuaibalhajj@gmail.com
